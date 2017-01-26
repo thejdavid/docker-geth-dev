@@ -9,13 +9,34 @@
   "gasLimit": "0x2FEFD8",
   "alloc": {
     "de1e758511a7c67e7db93d1c23c1060a21db4615": {
-      "balance": "1000"
+      "balance": "1000000000000"
     },
     "27dc8de9e9a1cb673543bd5fce89e83af09e228f": {
-      "balance": "1100"
+      "balance": "1000000000000"
     },
     "d64a66c28a6ae5150af5e7c34696502793b91ae7": {
-      "balance": "900"
+      "balance": "1000000000000"
+    },
+    "52c4341ce3b813a5c9df3e132ba0907fe06b98bf": {
+      "balance": "1000000000000"
+    },
+    "0a65fa1c4d8e1f42108f96d308ac27b654ed161e": {
+      "balance": "1000000000000"
+    },
+    "e8957734944c64762f5f8e303b2c71e5a473717f": {
+      "balance": "1000000000000"
+    },
+    "23ab839bef7d033c21bc3502c142e64d7f0036ed": {
+      "balance": "1000000000000"
+    },
+    "12826c9e9ef9548f4b69c3dee47f2da47892b091": {
+      "balance": "1000000000000"
+    },
+    "6550abed884870e97818e29b87039a8b37a73477": {
+      "balance": "1000000000000"
+    },
+    "eded38d356f5c417c27da559fb799bcc9eef7b82": {
+      "balance": "1000000000000"
     }
   }
 }
